@@ -1,0 +1,14 @@
+requests
+pandas
+openpyxl
+beautifulsoup4
+openai==0.28.0
+mysql-connector-python
+lru_cache
+python-dotenv
+django-ckeditor==6.6.1
+Django==5.0.0
+xlsxwriter
+djangorestframework
+drf_spectacular
+drf_spectacular_sidecar
